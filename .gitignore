@@ -1,0 +1,3 @@
+**/input_ignore
+**/output_ignore
+source/violin_plot_csv_generator/__pycache__/
